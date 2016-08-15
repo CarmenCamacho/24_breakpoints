@@ -1,0 +1,14 @@
+
+
+@media only screen and (min-width : 960) and (max-width: 1124px){
+	body{background:green;}
+}
+
+@media only screen and (min-width : 321px) and (max-width: 599px){
+	body{background:yellow;}
+}
+
+@media only screen and (min-width : 600px) and (max-width: 959px){
+	body{background:blue;}
+}
+
